@@ -1,0 +1,1 @@
+# OpenHEIC.exe
